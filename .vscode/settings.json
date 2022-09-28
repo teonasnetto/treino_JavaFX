@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\THEO\\programing\\codigos\\Z_estudos_testes\\java-libs\\javafx-sdk-19\\lib\\javafx.base.jar",
+        "d:\\THEO\\programing\\codigos\\Z_estudos_testes\\java-libs\\javafx-sdk-19\\lib\\javafx.controls.jar",
+        "d:\\THEO\\programing\\codigos\\Z_estudos_testes\\java-libs\\javafx-sdk-19\\lib\\javafx.fxml.jar",
+        "d:\\THEO\\programing\\codigos\\Z_estudos_testes\\java-libs\\javafx-sdk-19\\lib\\javafx.graphics.jar",
+        "d:\\THEO\\programing\\codigos\\Z_estudos_testes\\java-libs\\javafx-sdk-19\\lib\\javafx.media.jar",
+        "d:\\THEO\\programing\\codigos\\Z_estudos_testes\\java-libs\\javafx-sdk-19\\lib\\javafx.swing.jar",
+        "d:\\THEO\\programing\\codigos\\Z_estudos_testes\\java-libs\\javafx-sdk-19\\lib\\javafx.web.jar",
+        "d:\\THEO\\programing\\codigos\\Z_estudos_testes\\java-libs\\javafx-sdk-19\\lib\\javafx-swt.jar"
+    ]
+}
