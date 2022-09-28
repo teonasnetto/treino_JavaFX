@@ -1,5 +1,7 @@
 ## Getting Started
 
+to use the program you need to download java libs for JavaFX and configure in dependencies
+
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
